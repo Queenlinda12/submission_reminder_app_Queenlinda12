@@ -1,5 +1,4 @@
 # submission_reminder_app_Queenlinda12
-# Submission Reminder Application
 
 A simple shell script application to help manage and track submissions.
 
